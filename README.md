@@ -47,7 +47,7 @@ python main.py
 - 切換至 “學習計畫生成” 分頁，輸入主題並選擇「使用 RAG 增強」，生成 10 週學習計畫  
 
 ## 範例
-1. 上傳 `user_manuals/Manual_A.pdf`  
+1. 上傳 `manual.pdf`和 `manual2.pdf`
 2. 查詢「如何使用迴圈」  
 3. 生成 Python 學習計畫並比較 RAG 開/關的差異  
 
