@@ -25,7 +25,7 @@
 1. 克隆專案  
 git clone https://github.com/bigjjjjjjjjjjjj/aiiiii
 
-cd rag-manual-assistant
+2. cd rag-manual-assistant
 
 3. 建立虛擬環境並安裝套件  
 python -m venv venv
