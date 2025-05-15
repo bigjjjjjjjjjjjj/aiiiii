@@ -48,9 +48,7 @@ python main.py
 
 ## 範例
 1. 上傳 `user_manuals/Manual_A.pdf`  
-2. 查詢「如何提交差旅報銷申請？」  
+2. 查詢「如何使用迴圈」  
 3. 生成 Python 學習計畫並比較 RAG 開/關的差異  
 
-## 參考
-- Lewis et al., “Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks”[2]  
-- Abeyon, “Leveraging RAG to search Technical Manuals”[2]  
+
